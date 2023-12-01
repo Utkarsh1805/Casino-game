@@ -214,6 +214,7 @@ int round1()
 
 int rules()
 {
+     
      printf("----------------------------------------------------------------------------\n");
      printf("                         RULES\n");
      printf("-----------------------------------------------------------------------------\n");
@@ -221,4 +222,5 @@ int rules()
      printf("         2. If you win you will get 10 times of money you bet\n");
      printf("         3. if you bet on wrong number you will lose your betting amount\n");
      printf("------------------------------------------------------------------------------\n");
+     
 }
