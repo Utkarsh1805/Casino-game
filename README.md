@@ -1,5 +1,5 @@
 1- This Casino game code is a simple number guessing game with a betting system. Here's a brief description of the code:
-2- 
+ 
 3- The program includes necessary header files for input/output, standard library functions, and time-related functions.
 4- It declares three functions: rules() for displaying game rules, round1() for handling the first round of the game, and main() as the entry point of the program.
 5- The main() function calls the rules() function to display the game rules, followed by the round1() function to execute the first round of the game.
